@@ -1,5 +1,5 @@
 require "sysperan/version"
 
 module Sysperan
-  # Your code goes here...
+  autoload :Client,     "sysperan/client"
 end
