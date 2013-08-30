@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby ./analyze
+# -*- encoding: utf-8 -*-
+
+interval 1
